@@ -156,6 +156,9 @@ Data visualization is a crucial part of EDA, providing insights that are not imm
     g = sns.FacetGrid(netflix_data, col="column_name")
     g.map(plt.hist, "another_column")
     ```
+##  OutComes
+
+
 
 ##  6. Observations / Insights
 
