@@ -158,7 +158,7 @@ Data visualization is a crucial part of EDA, providing insights that are not imm
     ```
 ##  OutComes
 
-
+![Untitled design (1)](https://github.com/user-attachments/assets/c2f3e57c-b292-4e36-a44a-d1961a324b5e)
 
 ##  6. Observations / Insights
 
